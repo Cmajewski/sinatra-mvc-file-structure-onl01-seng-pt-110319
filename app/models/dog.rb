@@ -1,3 +1,4 @@
-class Dog<Sinatra:Base
+class Dog
+
 
 end
